@@ -1,0 +1,10 @@
+# 忽略编译产物  
+/build/  
+*.exe  
+
+# 忽略IDE文件  
+.vscode/  
+.idea/  
+
+# 忽略依赖目录  
+node_modules/  
