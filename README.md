@@ -1,0 +1,5 @@
+dkd-app(app的后端)
+dkd-applet(模拟硬件售货机的的后端)
+dkd-vue(管理平台前端)
+dkd-parent(管理平台的后端)
+screen(模拟硬件售货机的前端)
